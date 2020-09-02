@@ -1,0 +1,7 @@
+Items:
+Ovos
+Margarina
+Farinha de trigo
+Leite
+Açúcar
+Fermento
